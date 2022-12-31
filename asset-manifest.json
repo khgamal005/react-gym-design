@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-gym-design/static/css/main.86e1cf88.css",
+    "main.js": "/react-gym-design/static/js/main.8342bcd0.js",
+    "static/media/hero_image.png": "/react-gym-design/static/media/hero_image.e19ac0c6b1009c7280f5.png",
+    "static/media/t-image1.png": "/react-gym-design/static/media/t-image1.c16c2c261034cf78ee57.png",
+    "static/media/image1.png": "/react-gym-design/static/media/image1.1091417d32e491f0bbb6.png",
+    "static/media/image2.png": "/react-gym-design/static/media/image2.82da8b2725df896d8a8e.png",
+    "static/media/t-image3.jpg": "/react-gym-design/static/media/t-image3.3894413f7bf2b4f1fc54.jpg",
+    "static/media/image3.png": "/react-gym-design/static/media/image3.69484cb0ee7687a8c28b.png",
+    "static/media/image4.png": "/react-gym-design/static/media/image4.2c0d30b9ce1579eb1109.png",
+    "static/media/t-image2.jpg": "/react-gym-design/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
+    "static/media/hero_image_back.png": "/react-gym-design/static/media/hero_image_back.9f54bfba33048f4ca688.png",
+    "static/media/heartHealth.svg": "/react-gym-design/static/media/heartHealth.644e2dc11a3f968c0ebd72936030b7ca.svg",
+    "static/media/runing.svg": "/react-gym-design/static/media/runing.883e288653dec299ff94ac4863daefa7.svg",
+    "static/media/flame.svg": "/react-gym-design/static/media/flame.16336146bf754d693dd5c6e628555147.svg",
+    "index.html": "/react-gym-design/index.html",
+    "main.86e1cf88.css.map": "/react-gym-design/static/css/main.86e1cf88.css.map",
+    "main.8342bcd0.js.map": "/react-gym-design/static/js/main.8342bcd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e1cf88.css",
+    "static/js/main.8342bcd0.js"
+  ]
+}
