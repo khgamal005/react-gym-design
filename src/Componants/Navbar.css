@@ -1,0 +1,23 @@
+.navbar-nav{
+width: 100%;
+display: flex;
+justify-content: flex-end;
+}
+.navbar-nav:nth-child(1){
+    flex: 3;
+}
+.navbar-nav:nth-child(1) a{
+    color: #fff;
+}
+.navbar-nav:nth-child(1) a:hover {
+    color:var(--orange) !important;
+    
+}
+.navbar-nav:nth-child(2){
+    flex: 1;
+}
+
+.logo img{
+    height: 3rem;
+    width: 10rem;
+}
